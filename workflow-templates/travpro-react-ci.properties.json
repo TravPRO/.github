@@ -1,0 +1,7 @@
+{
+  "name": "TravPRO React CI",
+  "description": "CI Workflow for the React version of TravPRO's Sales Companion.",
+  "iconName": "react",
+  "categories": ["JavaScript", "JSX"],
+  "filePatterns": ["package.json$"]
+}
