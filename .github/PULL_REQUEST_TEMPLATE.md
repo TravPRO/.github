@@ -1,15 +1,13 @@
-## Description
-
-### What does this PR change?
+## What does this PR change?
 
 
-### How was it changed?
+## How was it changed?
 
 
-### Link to Monday ticket:
-MONDAY-[item id]
+## Link to Monday ticket:
 
-## Compliancy
+
+# Compliancy
 
 - [ ] Tested
 - [ ] Documented
