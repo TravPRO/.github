@@ -13,6 +13,3 @@ MONDAY-[item id]
 
 - [ ] Tested
 - [ ] Documented
-- [ ] ESLint
-- [ ] Prettier
-- [ ] Codacy
